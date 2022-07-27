@@ -1,13 +1,11 @@
 ## JUAN CRUZ CÁCERES
-### Computer Engineering Student
+### Computer Engineering Student | Blockchain dev in process
 
 ### Skills:
 
 - C# .NET Framework
-- HTML, CSS, Bootstrap, Sass
-- Typescript
-- Angular
-- SQL, MySQL
+- Javascript / Typescript
+- Solidity
 
 - LinkedIn: [Juan Cruz Cáceres](https://www.linkedin.com/in/caceresjuancruz)
 - Github: [Juan Cruz Cáceres](https://github.com/caceresjuancruz)
