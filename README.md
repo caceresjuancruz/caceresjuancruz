@@ -39,7 +39,6 @@
 <img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript" />
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
 <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express" />
-<img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />  
 <br />
 <img src="https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React" />
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
