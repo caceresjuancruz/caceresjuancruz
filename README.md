@@ -8,9 +8,9 @@
     <br/>
 </h3> 
 
-- &nbsp; Software Developer & Computer Engineering student.
+<b> CV & Portfolio: https://caceresjuan.vercel.app </b>
 
-- &nbsp; Learning Solidity and Smart Contracts development.
+- &nbsp; Full Stack Web, Software Developer & Computer Engineering student.
 
 - &nbsp; Looking to collaborate on **crypto** projects and technologies.
 
