@@ -1,4 +1,4 @@
-<h1 align="center">Juan Cruz Cáceres</h1>
+<h1 align="center">Juan Cruz Cáceres | Software Developer</h1>
 
 <h3 align="center">
   <p align="center">
@@ -9,10 +9,6 @@
 </h3> 
 
 <b> CV: https://caceresjuan.vercel.app </b>
-
-- &nbsp; Software Developer.
-
-- &nbsp; How to reach me: **caceresjuan.dev@gmail.com**.
 
   <h3 align="center">🛠 &nbsp;Tech Stack:</h3>
 <div align="center">
