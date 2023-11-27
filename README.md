@@ -8,7 +8,7 @@
     <br/>
 </h3> 
 
-<b> CV: https://caceresjuan.vercel.app </b>
+<b align="center"> CV: https://caceresjuan.vercel.app </b>
 
   <h3 align="center">🛠 &nbsp;Tech Stack:</h3>
 <div align="center">
