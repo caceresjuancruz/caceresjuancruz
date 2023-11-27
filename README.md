@@ -8,8 +8,9 @@
     <br/>
 </h3> 
 
-<b align="center"> CV: https://caceresjuan.vercel.app </b>
-
+<div align="center">
+<b> CV: https://caceresjuan.vercel.app </b>
+<div/>
   <h3 align="center">🛠 &nbsp;Tech Stack:</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity" alt="Solidity" /> 
