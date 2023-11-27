@@ -3,25 +3,16 @@
 <h3 align="center">
   <p align="center">
     <img src="https://img.shields.io/badge/Location-Rafaela, Santa Fe, Argentina-blue?style=flat-square" /> &nbsp;
-    <img src="https://img.shields.io/badge/Age-22-blue?style=flat-square" /> &nbsp;
+    <img src="https://img.shields.io/badge/Age-23-blue?style=flat-square" /> &nbsp;
         <img src="https://img.shields.io/badge/Languages-Spanish & English-blue?style=flat-square" /> <br/>
     <br/>
 </h3> 
 
-<b> CV & Portfolio: https://caceresjuan.vercel.app </b>
+<b> CV: https://caceresjuan.vercel.app </b>
 
-- &nbsp; Full Stack Web, Software Developer & Computer Engineering student.
+- &nbsp; Software Developer.
 
 - &nbsp; How to reach me: **caceresjuan.dev@gmail.com**.
-    
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caceresjuancruz/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caceresjuan__/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caceresjuan_)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caceresjuan.dev@gmail.com)
-</div>
 
   <h3 align="center">🛠 &nbsp;Tech Stack:</h3>
 <div align="center">
