@@ -5,7 +5,7 @@ Hello 👋, I'm Juan, a passionate full-stack web developer with a knack for cra
 
 
 <h3>Contact</h3>
-Reach me at caceresjuan.dev@gmail.com or on <a href='https://www.linkedin.com/in/caceresjuancruz/' target='_blank'><img src="https://cdn-icons-png.flaticon.com/32/61/61109.png" alt="LinkedIn" /></a>&nbsp; 
+Reach me at caceresjuan.dev@gmail.com or on &nbsp; <a href='https://www.linkedin.com/in/caceresjuancruz/' target='_blank'><img src="https://cdn-icons-png.flaticon.com/32/61/61109.png" alt="LinkedIn" /></a> 
 
 
 <br/>
