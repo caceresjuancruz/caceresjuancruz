@@ -10,9 +10,14 @@ Contact me at caceresjuan.dev@gmail.com
 Or on
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caceresjuancruz/)
 
-## Currently working with
+
 <h3>Currently working with</h3>
 <div>
-    <img src="https://cdn-icons-png.flaticon.com/64/5968/5968566.png" alt="Next.js" /> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/320px-Nextjs-logo.svg.png" alt="Next.js" /> 
+    <img src="https://cdn-icons-png.flaticon.com/64/10832/10832170.png" alt="React.js" /> 
+    <img src="https://cdn-icons-png.flaticon.com/64/5968/5968566.png" alt="Typescript" /> 
+    <img src="https://cdn-icons-png.flaticon.com/64/5968/5968554.png" alt="SQLServer" />
+    <img src="https://cdn-icons-png.flaticon.com/64/5968/5968571.png" alt="VSCode" />
+    
 </div>
 
