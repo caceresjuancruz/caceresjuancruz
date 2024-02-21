@@ -18,6 +18,7 @@ Or on &nbsp;
     <img src="https://cdn-icons-png.flaticon.com/64/10832/10832170.png" alt="React.js" />&nbsp; 
     <img src="https://cdn-icons-png.flaticon.com/64/5968/5968566.png" alt="Typescript" />&nbsp; 
     <img src="https://cdn-icons-png.flaticon.com/64/5968/5968554.png" alt="SQLServer" />&nbsp;
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-64.png" alt="MongoDB" />&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/64/5968/5968571.png" alt="VSCode" />&nbsp;
     
 </div>
