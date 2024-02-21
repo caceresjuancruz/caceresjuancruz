@@ -9,6 +9,7 @@ Reach me at caceresjuan.dev@gmail.com or on &nbsp;<a href='https://www.linkedin.
 
 
 <br/>
+<br/>
 <h3>Currently working with</h3>
 <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/120px-Nextjs-logo.svg.png" alt="Next.js" />&nbsp; 
