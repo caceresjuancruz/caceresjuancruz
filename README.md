@@ -14,7 +14,7 @@ Or on &nbsp;
 
 <h3>Currently working with</h3>
 <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/320px-Nextjs-logo.svg.png" alt="Next.js" />&nbsp; 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/120px-Nextjs-logo.svg.png" alt="Next.js" />&nbsp; 
     <img src="https://cdn-icons-png.flaticon.com/64/10832/10832170.png" alt="React.js" />&nbsp; 
     <img src="https://cdn-icons-png.flaticon.com/64/5968/5968566.png" alt="Typescript" />&nbsp; 
     <img src="https://cdn-icons-png.flaticon.com/64/5968/5968554.png" alt="SQLServer" />&nbsp;
