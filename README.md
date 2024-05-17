@@ -14,7 +14,9 @@ Reach me at <b>caceresjuan.dev@gmail.com</b> or on &nbsp;<a href='https://www.li
 <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/120px-Nextjs-logo.svg.png" alt="Next.js" />&nbsp; 
     <img src="https://cdn-icons-png.flaticon.com/64/10832/10832170.png" alt="React.js" />&nbsp; 
-    <img src="https://cdn-icons-png.flaticon.com/64/5968/5968566.png" alt="Typescript" />&nbsp; 
+    <img src="https://cdn-icons-png.flaticon.com/64/5968/5968566.png" alt="Typescript" />&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/64/15380/15380914.png" alt="NodeJS" />&nbsp;
+    <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-256x254-3zzbole8.png" alt="NestJS" />&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/64/5968/5968554.png" alt="SQLServer" />&nbsp;
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-64.png" alt="MongoDB" />&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/64/5968/5968571.png" alt="VSCode" />&nbsp;
