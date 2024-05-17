@@ -17,6 +17,7 @@ Reach me at <b>caceresjuan.dev@gmail.com</b> or on &nbsp;<a href='https://www.li
     <img src="https://cdn-icons-png.flaticon.com/64/5968/5968566.png" alt="Typescript" />&nbsp;
     <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-256x254-3zzbole8.png" width="64px" height="64px" alt="NestJS" />&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/64/5968/5968554.png" alt="SQLServer" />&nbsp;
+    <img src="https://cdn-icons-png.flaticon.com/64/5968/5968538.png" alt="PostgreSQL" />&nbsp;
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/mongodb-64.png" alt="MongoDB" />&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/64/5968/5968571.png" alt="VSCode" />&nbsp;
     
