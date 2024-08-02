@@ -7,7 +7,7 @@ Hello 👋, I'm Juan, a passionate full-stack web developer with a knack for cra
 <h3>Contact</h3>
 Reach me at <b>caceresjuan.dev@gmail.com</b> or on &nbsp;<a href='https://www.linkedin.com/in/caceresjuancruz/' target='_blank'><img src="https://cdn-icons-png.flaticon.com/16/61/61109.png" alt="LinkedIn" /></a> 
 
-<h5>Currently working with</h5>
-<p>Next.js + Typescript + TailwindCSS + NestJS + PostgreSQL + MongoDB + SQLServer + VSCode</p>
+<h5>Currently working with:</h5>
+<small>Next.js + Typescript + TailwindCSS + NestJS + PostgreSQL + MongoDB + SQLServer + VSCode</small>
 
 
